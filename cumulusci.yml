@@ -1,9 +1,9 @@
 minimum_cumulusci_version: "3.1.0"
 project:
-    name: CCI-Food-Bank
+    name: Food-Bank
     package:
-        name: CumulusCI Food Bank Demo
-        namespace: ccifb1
+        name: Food-Bank
+        namespace: kevinsfoodbank
         api_version: "47.0"
     source_format: sfdx
     git:
